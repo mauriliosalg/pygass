@@ -7,4 +7,4 @@ The aims:
 
 - Rock property modeling
 - Fluid property modeling
-- 
+- lala
